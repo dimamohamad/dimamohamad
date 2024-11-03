@@ -15,7 +15,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Full Stack Web Developer Animation - Woman" width="300"/>
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Full Stack Web Developer Animation" width="300"/>
     </td>
   </tr>
 </table>
@@ -33,6 +33,4 @@
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Server"/>
   <img src="https://img.icons8.com/fluency/48/000000/net-framework.png" alt=".NET"/>
   <img src="https://img.icons8.com/color/48/000000/cloud-storage.png" alt="ASP.NET MVC"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-</p>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java
