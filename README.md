@@ -21,6 +21,10 @@
   </div>
 </div>
 
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+
+ 
+
   <!-- Profile Preview Section -->
   <div style="flex: 1; min-width: 300px;">
     <h3>About Me</h3>
