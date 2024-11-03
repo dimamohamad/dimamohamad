@@ -1,36 +1,24 @@
-# Hi 👋, I'm Dima Mohammad Ahmad
+# Welcome to Dima Mohammad Ahmad's GitHub!
 
-**Full Stack Web Developer**
+## Full Stack Web Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=dimamohamad&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/your-github-username)
 
-- 📫 How to reach me: [dima.alahmad02@gmail.com](mailto:dima.alahmad02@gmail.com)
-
----
-
-### Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dima-ahmad-3b2152270/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/dimamohamad)
-
----
-
-### About Me
-
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px;">
-    <ul>
-      <li>🌟 I'm a <strong>Full Stack Web Developer</strong> with comprehensive training from <strong>Orange Coding Academy</strong>.</li>
-      <li>🎓 I have a degree in <strong>Civil Engineering</strong> from <strong>Yarmouk University</strong>, where I developed strong analytical and structured problem-solving skills.</li>
-      <li>💡 I'm passionate about building both front-end and back-end solutions to solve real-world challenges using modern web technologies.</li>
-    </ul>
-  </div>
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="https://iconscout.com/lottie-animation/female-php-developer-working-on-laptop-5105217" alt="Woman Coding Animation" width="300"/>
-  </div>
-</div>
-
----
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>🌟 I'm a <strong>Full Stack Web Developer</strong> with comprehensive training from <strong>Orange Coding Academy</strong>.</li>
+        <li>🎓 My background includes a degree in <strong>Civil Engineering</strong> from <strong>Yarmouk University</strong>, where I gained strong analytical and structured problem-solving skills.</li>
+        <li>💡 Passionate about building both front-end and back-end solutions to solve real-world challenges using modern web technologies.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Full Stack Web Developer Animation" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ### Languages and Tools:
 
@@ -48,5 +36,3 @@
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
 </p>
-
----
