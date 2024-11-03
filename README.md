@@ -1,4 +1,4 @@
-# Welcome to Dima Mohammad Ahmad's GitHub!
+# Hi 👋, I'm Dima Mohammad Ahmad
 
 ## Full Stack Web Developer
 
