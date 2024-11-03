@@ -15,6 +15,25 @@
 
 ---
 
+### About Me
+
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>🌟 I'm a <strong>Full Stack Web Developer</strong> with comprehensive training from <strong>Orange Coding Academy</strong>.</li>
+        <li>🎓 I have a degree in <strong>Civil Engineering</strong> from <strong>Yarmouk University</strong>, where I developed strong analytical and structured problem-solving skills.</li>
+        <li>💡 I'm passionate about building both front-end and back-end solutions to solve real-world challenges using modern web technologies.</li>
+      </ul>
+    </td>
+    <td style="text-align: center;">
+      <img src="YOUR_GIF_URL_HERE" alt="Woman Coding Animation" width="300"/>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### Languages and Tools:
 
 <p align="left">
@@ -34,15 +53,3 @@
 
 ---
 
-### About Me
-
-- 🌟 I'm a **Full Stack Web Developer** with comprehensive training from **Orange Coding Academy**.
-- 🎓 I have a degree in **Civil Engineering** from **Yarmouk University**, where I developed strong analytical and structured problem-solving skills.
-- 💡 I'm passionate about building both front-end and back-end solutions to solve real-world challenges using modern web technologies.
-
----
-
-### Pinned Repositories
-
-[![Repository Name](https://github-readme-stats.vercel.app/api/pin/?username=dimamohamad&repo=your-repo-name)](https://github.com/dimamohamad/your-repo-name)
-[![Repository Name](https://github-readme-stats.vercel.app/api/pin/?username=dimamohamad&repo=your-repo-name)](https://github.com/dimamohamad/your-repo-name)
