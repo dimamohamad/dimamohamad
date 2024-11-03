@@ -2,9 +2,18 @@
 
 ## Full Stack Web Developer
 
+![Profile Views](https://komarev.com/ghpvc/?username=dimamohamad&color=blue)
+
+- 📫 How to reach me: [dima.alahmad02@gmail.com](mailto:dima.alahmad02@gmail.com)
+
+---
+### Connect with me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dima-ahmad-3b2152270/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/dimamohamad)
 
+
+### About Me
 <table>
   <tr>
     <td style="vertical-align: top;">
@@ -35,3 +44,9 @@
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
 </p>
+
+
+
+
+
+
