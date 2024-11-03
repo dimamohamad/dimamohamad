@@ -1,5 +1,5 @@
 # Welcome to Dima Mohammad Ahmad's GitHub!
-
+![Full Stack Developer Animation](./your-animation.gif)
 ## Full Stack Web Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dima-ahmad-3b2152270/)  
