@@ -1,6 +1,7 @@
-# Hi 👋, I'm Dima Mohammad Ahmad
-
-## Full Stack Web Developer
+<div align="center">
+  <h1>Hi 👋, I'm Dima Mohammad Ahmad</h1>
+  <h2>Full Stack Web Developer</h2>
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dimamohamad&color=blue)
 
