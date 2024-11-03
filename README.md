@@ -3,16 +3,14 @@
   <h2>Full Stack Web Developer</h2>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dimamohamad&color=blue)
-
-- 📫 How to reach me: [dima.alahmad02@gmail.com](mailto:dima.alahmad02@gmail.com)
-
----
-
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-
-  <!-- Connect with Me Section -->
-  <div style="flex: 1; min-width: 250px;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div>
+    ![Profile Views](https://komarev.com/ghpvc/?username=dimamohamad&color=blue)
+  </div>
+  <div>
+    - 📫 How to reach me: <a href="mailto:dima.alahmad02@gmail.com">dima.alahmad02@gmail.com</a>
+  </div>
+  <div>
     <h3>Connect with me:</h3>
     <a href="https://www.linkedin.com/in/dima-ahmad-3b2152270/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
@@ -21,6 +19,7 @@
       <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub">
     </a>
   </div>
+</div>
 
   <!-- Profile Preview Section -->
   <div style="flex: 1; min-width: 300px;">
