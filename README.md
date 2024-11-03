@@ -53,3 +53,7 @@
 
 ---
 
+### Pinned Repositories
+
+[![Repository Name](https://github-readme-stats.vercel.app/api/pin/?username=dimamohamad&repo=your-repo-name)](https://github.com/dimamohamad/your-repo-name)
+[![Repository Name](https://github-readme-stats.vercel.app/api/pin/?username=dimamohamad&repo=your-repo-name)](https://github.com/dimamohamad/your-repo-name)
