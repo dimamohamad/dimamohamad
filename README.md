@@ -17,20 +17,18 @@
 
 ### About Me
 
-<table>
-  <tr>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>🌟 I'm a <strong>Full Stack Web Developer</strong> with comprehensive training from <strong>Orange Coding Academy</strong>.</li>
-        <li>🎓 I have a degree in <strong>Civil Engineering</strong> from <strong>Yarmouk University</strong>, where I developed strong analytical and structured problem-solving skills.</li>
-        <li>💡 I'm passionate about building both front-end and back-end solutions to solve real-world challenges using modern web technologies.</li>
-      </ul>
-    </td>
-    <td style="text-align: center;">
-      <img src="YOUR_GIF_URL_HERE" alt="Woman Coding Animation" width="300"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px;">
+    <ul>
+      <li>🌟 I'm a <strong>Full Stack Web Developer</strong> with comprehensive training from <strong>Orange Coding Academy</strong>.</li>
+      <li>🎓 I have a degree in <strong>Civil Engineering</strong> from <strong>Yarmouk University</strong>, where I developed strong analytical and structured problem-solving skills.</li>
+      <li>💡 I'm passionate about building both front-end and back-end solutions to solve real-world challenges using modern web technologies.</li>
+    </ul>
+  </div>
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="https://iconscout.com/lottie-animation/female-php-developer-working-on-laptop-5105217" alt="Woman Coding Animation" width="300"/>
+  </div>
+</div>
 
 ---
 
@@ -52,8 +50,3 @@
 </p>
 
 ---
-
-### Pinned Repositories
-
-[![Repository Name](https://github-readme-stats.vercel.app/api/pin/?username=dimamohamad&repo=your-repo-name)](https://github.com/dimamohamad/your-repo-name)
-[![Repository Name](https://github-readme-stats.vercel.app/api/pin/?username=dimamohamad&repo=your-repo-name)](https://github.com/dimamohamad/your-repo-name)
