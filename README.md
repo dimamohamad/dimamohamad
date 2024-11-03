@@ -7,27 +7,41 @@
 - 📫 How to reach me: [dima.alahmad02@gmail.com](mailto:dima.alahmad02@gmail.com)
 
 ---
-### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dima-ahmad-3b2152270/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/dimamohamad)
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
 
+  <!-- Connect with Me Section -->
+  <div style="flex: 1; min-width: 250px;">
+    <h3>Connect with me:</h3>
+    <a href="https://www.linkedin.com/in/dima-ahmad-3b2152270/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/dimamohamad" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub">
+    </a>
+  </div>
 
-### About Me
-<table>
-  <tr>
-    <td style="vertical-align: top;">
-      <ul>
-        <li>🌟 I'm a <strong>Full Stack Web Developer</strong> with comprehensive training from <strong>Orange Coding Academy</strong>.</li>
-        <li>🎓 My background includes a degree in <strong>Civil Engineering</strong> from <strong>Yarmouk University</strong>, where I gained strong analytical and structured problem-solving skills.</li>
-        <li>💡 Passionate about building both front-end and back-end solutions to solve real-world challenges using modern web technologies.</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Full Stack Web Developer Animation - Woman" width="300"/>
-    </td>
-  </tr>
-</table>
+  <!-- Profile Preview Section -->
+  <div style="flex: 1; min-width: 300px;">
+    <h3>About Me</h3>
+    <table>
+      <tr>
+        <td style="vertical-align: top;">
+          <ul>
+            <li>🌟 I'm a <strong>Full Stack Web Developer</strong> with comprehensive training from <strong>Orange Coding Academy</strong>.</li>
+            <li>🎓 My background includes a degree in <strong>Civil Engineering</strong> from <strong>Yarmouk University</strong>, where I gained strong analytical and structured problem-solving skills.</li>
+            <li>💡 Passionate about building both front-end and back-end solutions to solve real-world challenges using modern web technologies.</li>
+          </ul>
+        </td>
+        <td>
+          <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Full Stack Web Developer Animation - Woman" width="200"/>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+---
 
 ### Languages and Tools:
 
@@ -44,9 +58,3 @@
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
 </p>
-
-
-
-
-
-
