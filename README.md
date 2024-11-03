@@ -2,8 +2,8 @@
 
 ## Full Stack Web Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/your-github-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dima-ahmad-3b2152270/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/dimamohamad)
 
 <table>
   <tr>
@@ -32,7 +32,6 @@
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Server"/>
   <img src="https://img.icons8.com/fluency/48/000000/net-framework.png" alt=".NET"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/mvc.png" alt="ASP.NET MVC"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
 </p>
