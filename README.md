@@ -3,13 +3,18 @@
   <h2>Full Stack Web Developer</h2>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
+  <!-- Profile Views -->
   <div>
-    ![Profile Views](https://komarev.com/ghpvc/?username=dimamohamad&color=blue)
+    <img src="https://komarev.com/ghpvc/?username=dimamohamad&color=blue" alt="Profile Views">
   </div>
+  
+  <!-- Contact Email -->
   <div>
-    - 📫 How to reach me: <a href="mailto:dima.alahmad02@gmail.com">dima.alahmad02@gmail.com</a>
+    📫 How to reach me: <a href="mailto:dima.alahmad02@gmail.com">dima.alahmad02@gmail.com</a>
   </div>
+
+  <!-- Connect with Me Section -->
   <div>
     <h3>Connect with me:</h3>
     <a href="https://www.linkedin.com/in/dima-ahmad-3b2152270/" target="_blank">
@@ -21,12 +26,11 @@
   </div>
 </div>
 
+---
+
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-
- 
-
-  <!-- Profile Preview Section -->
-  <div style="flex: 1; min-width: 300px;">
+  <!-- About Me Section -->
+  <div style="flex: 1; min-width: 250px;">
     <h3>About Me</h3>
     <table>
       <tr>
